@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**FabioDavidF/FabioDavidF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fábio, a guy who loves coding and works primarily in web-servers with python, but likes to learn about/work with all kinds of stuff! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* Python
+* JavaScript
+* HTML
+* CSS
+* Rest API's
+* Django
+* UnitTest
+* Selenium
+* Pandas
+* Heroku
+* SendGrid
+
+## ⚙️ I use daily:
+* Python
+* Django
+* UnitTest
+
+🌱 I’m currently learning about Data Science and Machine Learning with pandas and scikit learn
+
+📫 How to reach me: fabio.david.contato@gmail.com
+
+
