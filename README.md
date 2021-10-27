@@ -21,8 +21,6 @@ I'm Fábio, a guy who loves coding and works primarily in web-servers with pytho
 * Django
 * UnitTest
 
-🌱 I’m currently learning about Data Science and Machine Learning with pandas and scikit learn
+🌱 I’m currently learning React and other Front-end technologies
 
 📫 How to reach me: fabio.david.contato@gmail.com
-
-
